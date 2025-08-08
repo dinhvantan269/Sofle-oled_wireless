@@ -62,7 +62,7 @@ layers:
   - LEFT
   - DOWN ARROW
   lower:
-  - {t: ▽, type: trans}
+  - MENU ESCAPE
   - '1'
   - '2'
   - '3'
@@ -74,7 +74,7 @@ layers:
   - '9'
   - '0'
   - DELETE
-  - '`'
+  - TAB
   - Q
   - W
   - E
