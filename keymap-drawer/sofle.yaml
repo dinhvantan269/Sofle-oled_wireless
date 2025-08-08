@@ -13,7 +13,7 @@ layers:
   - '9'
   - '0'
   - BACKSPACE
-  - TAB
+  - '~'
   - Q
   - W
   - E
@@ -25,7 +25,7 @@ layers:
   - O
   - P
   - DEL
-  - LEFT SHIFT
+  - TAB
   - A
   - S
   - D
@@ -37,7 +37,7 @@ layers:
   - L
   - /
   - ENTER
-  - LEFT CONTROL
+  - LEFT SHIFT
   - Z
   - X
   - C
@@ -50,8 +50,8 @@ layers:
   - ','
   - UP ARROW
   - RIGHT
-  - RSHFT
-  - LGUI
+  - _
+  - LEFT CONTROL
   - LEFT ALT
   - SPACE
   - SPACE
