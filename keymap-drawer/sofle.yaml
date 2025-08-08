@@ -44,7 +44,7 @@ layers:
   - V
   - B
   - MUTE
-  - {t: lower, h: toggle}
+  - {t: mac, h: toggle}
   - N
   - M
   - ','
@@ -244,3 +244,64 @@ layers:
   - ''
   - ''
   - ''
+  mac:
+  - ESCAPE
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - DEL
+  - TAB
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - BACKSPACE
+  - LEFT SHIFT
+  - A
+  - S
+  - D
+  - F
+  - G
+  - H
+  - J
+  - K
+  - L
+  - /
+  - RET
+  - LEFT CONTROL
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - {t: ▽, type: trans}
+  - {t: default, h: toggle}
+  - N
+  - M
+  - ','
+  - UP ARROW
+  - RIGHT
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - LEFT COMMAND
+  - SPACE
+  - SPACE
+  - {t: ▽, type: trans}
+  - SPACE
+  - SPACE
+  - RIGHT CONTROL
+  - LEFT ARROW
+  - DOWN
