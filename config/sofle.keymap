@@ -65,11 +65,11 @@
             //               |     |      |      |      |        |  |       |      |       |       |      |
 
             bindings = <
-&trans            &kp NUMBER_1  &kp NUMBER_2    &kp NUMBER_3      &kp NUMBER_4  &kp N5                              &kp NUMBER_6  &kp N7  &kp N8          &kp NUMBER_9    &kp N0                &kp DELETE
-&kp GRAVE         &kp Q         &kp W           &kp E             &kp R         &kp T                               &kp Y         &kp U   &kp I           &kp N9          &kp P                 &kp BACKSPACE
-&kp LEFT_SHIFT    &kp A         &kp S           &kp D             &kp F         &kp G                               &kp H         &kp J   &kp K           &kp L           &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
-&kp LEFT_CONTROL  &kp Z         &kp X           &kp C             &kp V         &kp B      &kp C_MUTE    &to 0      &kp N         &kp M   &kp COMMA       &kp UP_ARROW    &kp RIGHT             &kp RIGHT_SHIFT
-                                &studio_unlock  &kp LEFT_COMMAND  &kp SPACE     &kp SPACE  &kp SPACE     &kp SPACE  &trans        &trans  &kp LEFT_ARROW  &kp DOWN_ARROW
+&kp C_MENU_ESCAPE  &kp NUMBER_1  &kp NUMBER_2    &kp NUMBER_3      &kp NUMBER_4  &kp N5                              &kp NUMBER_6  &kp N7  &kp N8          &kp NUMBER_9    &kp N0                &kp DELETE
+&kp TAB            &kp Q         &kp W           &kp E             &kp R         &kp T                               &kp Y         &kp U   &kp I           &kp N9          &kp P                 &kp BACKSPACE
+&kp LEFT_SHIFT     &kp A         &kp S           &kp D             &kp F         &kp G                               &kp H         &kp J   &kp K           &kp L           &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
+&kp LEFT_CONTROL   &kp Z         &kp X           &kp C             &kp V         &kp B      &kp C_MUTE    &to 0      &kp N         &kp M   &kp COMMA       &kp UP_ARROW    &kp RIGHT             &kp RIGHT_SHIFT
+                                 &studio_unlock  &kp LEFT_COMMAND  &kp SPACE     &kp SPACE  &kp SPACE     &kp SPACE  &trans        &trans  &kp LEFT_ARROW  &kp DOWN_ARROW
             >;
 
             sensor-bindings =
