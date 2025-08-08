@@ -37,7 +37,7 @@ layers:
   - L
   - /
   - ENTER
-  - LEFT SHIFT
+  - LEFT WIN
   - Z
   - X
   - C
@@ -50,7 +50,7 @@ layers:
   - ','
   - UP ARROW
   - RIGHT
-  - _
+  - '-'
   - LEFT CONTROL
   - LEFT ALT
   - SPACE
@@ -256,7 +256,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - DEL
+  - BACKSPACE
   - TAB
   - Q
   - W
@@ -268,7 +268,7 @@ layers:
   - I
   - O
   - P
-  - BACKSPACE
+  - DEL
   - LEFT SHIFT
   - A
   - S
