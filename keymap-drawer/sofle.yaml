@@ -37,7 +37,7 @@ layers:
   - L
   - ;
   - ENTER
-  - LEFT WIN
+  - LEFT CONTROL
   - Z
   - X
   - C
@@ -51,14 +51,14 @@ layers:
   - UP ARROW
   - RIGHT
   - '-'
-  - LEFT CONTROL
+  - LEFT WIN
   - LEFT ALT
   - SPACE
   - SPACE
-  - Sft+`
+  - '~'
   - {t: mac, h: toggle}
   - .
-  - RCTRL
+  - '='
   - LEFT
   - DOWN ARROW
   lower:
@@ -279,7 +279,7 @@ layers:
   - J
   - K
   - L
-  - /
+  - ;
   - RET
   - LEFT CONTROL
   - Z
@@ -287,21 +287,21 @@ layers:
   - C
   - V
   - B
-  - {t: ▽, type: trans}
-  - {t: default, h: toggle}
+  - MUTE
+  - lower
   - N
   - M
   - ','
   - UP ARROW
   - RIGHT
-  - {t: ▽, type: trans}
+  - '-'
   - {t: ▽, type: trans}
   - LEFT COMMAND
   - SPACE
   - SPACE
-  - {t: ▽, type: trans}
-  - SPACE
-  - SPACE
-  - RIGHT CONTROL
+  - '~'
+  - {t: default, h: toggle}
+  - .
+  - '='
   - LEFT ARROW
   - DOWN
