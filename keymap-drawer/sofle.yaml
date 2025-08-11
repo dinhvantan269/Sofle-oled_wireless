@@ -43,7 +43,7 @@ layers:
   - C
   - V
   - B
-  - /
+  - {t: mac, h: toggle}
   - raise
   - N
   - M
@@ -56,7 +56,7 @@ layers:
   - SPACE
   - SPACE
   - '`'
-  - {t: mac, h: toggle}
+  - /
   - .
   - '='
   - LEFT
@@ -287,7 +287,7 @@ layers:
   - C
   - V
   - B
-  - /
+  - {t: default, h: toggle}
   - lower
   - N
   - M
@@ -300,7 +300,7 @@ layers:
   - SPACE
   - SPACE
   - '`'
-  - {t: default, h: toggle}
+  - /
   - .
   - '='
   - LEFT ARROW
