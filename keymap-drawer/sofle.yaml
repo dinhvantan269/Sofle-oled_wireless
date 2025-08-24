@@ -50,14 +50,14 @@ layers:
   - ','
   - UP ARROW
   - RIGHT
-  - '-'
+  - .
   - LEFT WIN
   - LEFT ALT
   - SPACE
   - SPACE
   - '`'
   - /
-  - .
+  - '-'
   - '='
   - LEFT
   - DOWN ARROW
@@ -294,14 +294,14 @@ layers:
   - ','
   - UP ARROW
   - RIGHT
-  - '-'
+  - .
   - {t: ▽, type: trans}
   - LEFT COMMAND
   - SPACE
   - SPACE
   - '`'
   - /
-  - .
+  - '-'
   - '='
   - LEFT ARROW
   - DOWN
